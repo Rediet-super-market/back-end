@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T11:13:32.932Z" agent="5.0 (Windows)" etag="YFFWGZe03bRaC3ExBMhL" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T11:14:05.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HVFA5F0DzL184OVag2EX" version="21.3.2" type="github">
   <diagram name="Page-1" id="0EDqHRNonnm3GiFYiVO-">
-    <mxGraphModel dx="4290" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4469" dy="2546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CRDzPwJNytpHfTR5bL00-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" vertex="1" parent="1">
-          <mxGeometry x="31.5" y="340" width="43" height="65.15" as="geometry" />
+        <mxCell id="CRDzPwJNytpHfTR5bL00-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="20.424999999999997" y="351.075" width="65.15" height="43" as="geometry" />
         </mxCell>
         <mxCell id="CRDzPwJNytpHfTR5bL00-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="60" width="310" height="820" as="geometry" />
@@ -152,7 +152,7 @@
             <mxPoint x="390" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-15" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-15" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="-956.5" y="-40" width="1176.5" height="974.8" as="geometry" />
         </mxCell>
         <mxCell id="fLX1K6zevSFMjGlXyWZ7-3" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.failover_plan;rounded=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
