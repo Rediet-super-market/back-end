@@ -1,201 +1,185 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T11:34:38.001Z" agent="5.0 (Windows)" etag="DU8thcNVAmKl3EdhoZqA" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T12:10:51.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="37EfU77Wu9TDvxVB8T8E" version="21.3.3" type="github">
   <diagram name="Page-1" id="0EDqHRNonnm3GiFYiVO-">
-    <mxGraphModel dx="2736" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2669" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CRDzPwJNytpHfTR5bL00-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="20.424999999999997" y="351.075" width="65.15" height="43" as="geometry" />
+        <mxCell id="CRDzPwJNytpHfTR5bL00-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="60" width="310" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="60" width="310" height="820" as="geometry" />
-        </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-8" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-8" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" parent="1" vertex="1">
           <mxGeometry x="130" y="200" width="40" height="60.61" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" parent="1" vertex="1">
           <mxGeometry x="153.5" y="460" width="40" height="60.61" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CRDzPwJNytpHfTR5bL00-8" target="CRDzPwJNytpHfTR5bL00-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="240" as="sourcePoint" />
-            <mxPoint x="90" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-19" value="Registered Users" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-19" value="Registered Users" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="143.5" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-20" value="Users" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="23" y="410" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="460" as="sourcePoint" />
-            <mxPoint x="70" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="150" y="490" />
-              <mxPoint x="120" y="460" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-24" value="New Users" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-24" value="New Users" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="143.5" y="540.61" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-25" value="View Items" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-25" value="View Items" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="370" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-26" value="Purchase" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-26" value="Purchase" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="370" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-27" value="Update Price" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-27" value="Update Price" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="370" y="700" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-28" value="Login" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-28" value="Login" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="370" y="340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-29" value="Checkout" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-29" value="Checkout" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="370" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-31" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userFemale;strokeColor2=#008cff;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-31" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userFemale;strokeColor2=#008cff;" parent="1" vertex="1">
           <mxGeometry x="680" y="390" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-32" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-32" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="700" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-33" value="View Customers Information" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-33" value="View Customers Information" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="370" y="790" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-35" value="Add, Update,Delete Items" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-35" value="Add, Update,Delete Items" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="370" y="610" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CRDzPwJNytpHfTR5bL00-25">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="CRDzPwJNytpHfTR5bL00-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="230" as="sourcePoint" />
             <mxPoint x="360" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="CRDzPwJNytpHfTR5bL00-26">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-44" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="CRDzPwJNytpHfTR5bL00-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="240" as="sourcePoint" />
             <mxPoint x="370" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="CRDzPwJNytpHfTR5bL00-28">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-45" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="CRDzPwJNytpHfTR5bL00-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="250" as="sourcePoint" />
             <mxPoint x="380" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="CRDzPwJNytpHfTR5bL00-19" target="CRDzPwJNytpHfTR5bL00-29">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="CRDzPwJNytpHfTR5bL00-19" target="CRDzPwJNytpHfTR5bL00-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="260" as="sourcePoint" />
             <mxPoint x="390" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-47" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="480" as="sourcePoint" />
             <mxPoint x="400" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-49" value="Register" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-49" value="Register" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="370" y="520.61" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="CRDzPwJNytpHfTR5bL00-9" target="CRDzPwJNytpHfTR5bL00-49">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="CRDzPwJNytpHfTR5bL00-9" target="CRDzPwJNytpHfTR5bL00-49" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="510" as="sourcePoint" />
             <mxPoint x="410" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-51" value="" style="endArrow=classic;html=1;sketch=1;curveFitting=1;jiggle=2;curved=1;" edge="1" parent="1" source="CRDzPwJNytpHfTR5bL00-31" target="CRDzPwJNytpHfTR5bL00-28">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-51" value="" style="endArrow=classic;html=1;sketch=1;curveFitting=1;jiggle=2;curved=1;" parent="1" source="CRDzPwJNytpHfTR5bL00-31" target="CRDzPwJNytpHfTR5bL00-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="290" as="sourcePoint" />
             <mxPoint x="420" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-52" value="" style="endArrow=classic;html=1;exitX=-0.046;exitY=0.798;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;curved=1;" edge="1" parent="1" source="CRDzPwJNytpHfTR5bL00-31" target="CRDzPwJNytpHfTR5bL00-35">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-52" value="" style="endArrow=classic;html=1;exitX=-0.046;exitY=0.798;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;curved=1;" parent="1" source="CRDzPwJNytpHfTR5bL00-31" target="CRDzPwJNytpHfTR5bL00-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="300" as="sourcePoint" />
             <mxPoint x="430" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-53" value="" style="endArrow=classic;html=1;exitX=-0.046;exitY=0.798;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;curved=1;" edge="1" parent="1" target="CRDzPwJNytpHfTR5bL00-27">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-53" value="" style="endArrow=classic;html=1;exitX=-0.046;exitY=0.798;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;curved=1;" parent="1" target="CRDzPwJNytpHfTR5bL00-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="685" y="480" as="sourcePoint" />
             <mxPoint x="482" y="621" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-54" value="" style="endArrow=classic;html=1;exitX=-0.046;exitY=0.798;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.961;entryY=0.339;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;curved=1;" edge="1" parent="1" target="CRDzPwJNytpHfTR5bL00-33">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-54" value="" style="endArrow=classic;html=1;exitX=-0.046;exitY=0.798;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.961;entryY=0.339;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;curved=1;" parent="1" target="CRDzPwJNytpHfTR5bL00-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="695" y="490" as="sourcePoint" />
             <mxPoint x="500" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-55" value="" style="endArrow=classic;html=1;exitX=-0.019;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;curved=1;" edge="1" parent="1" source="CRDzPwJNytpHfTR5bL00-31" target="CRDzPwJNytpHfTR5bL00-29">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-55" value="" style="endArrow=classic;html=1;exitX=-0.019;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;curved=1;" parent="1" source="CRDzPwJNytpHfTR5bL00-31" target="CRDzPwJNytpHfTR5bL00-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="705" y="500" as="sourcePoint" />
             <mxPoint x="502" y="641" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-56" value="Select Category" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-56" value="Select Category" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="370" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="CRDzPwJNytpHfTR5bL00-56">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-58" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="CRDzPwJNytpHfTR5bL00-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="220" as="sourcePoint" />
             <mxPoint x="380" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRDzPwJNytpHfTR5bL00-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CRDzPwJNytpHfTR5bL00-9" target="CRDzPwJNytpHfTR5bL00-56">
+        <mxCell id="CRDzPwJNytpHfTR5bL00-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="CRDzPwJNytpHfTR5bL00-9" target="CRDzPwJNytpHfTR5bL00-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="250" as="sourcePoint" />
             <mxPoint x="390" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-15" value="" style="group;fontSize=19;" vertex="1" connectable="0" parent="1">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-15" value="" style="group;fontSize=19;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-956.5" y="-40" width="1176.5" height="974.8" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-3" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.failover_plan;rounded=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-3" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.failover_plan;rounded=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="-567" y="-10" width="38.4" height="54.4" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-circle-content/512/circle-edit-line-2-128.png;rounded=0;shadow=1;glass=0;sketch=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;fillColor=#67AB9F;gradientColor=#67AB9F;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-circle-content/512/circle-edit-line-2-128.png;rounded=0;shadow=1;glass=0;sketch=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;fillColor=#67AB9F;gradientColor=#67AB9F;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="-579.8" y="70" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/css-128.png;rounded=0;shadow=1;glass=0;sketch=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;fillColor=#67AB9F;gradientColor=#67AB9F;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/css-128.png;rounded=0;shadow=1;glass=0;sketch=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;fillColor=#67AB9F;gradientColor=#67AB9F;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="-576.8" y="150" width="48.4" height="48.4" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/700045-icon-86-document-file-php-128.png;rounded=0;shadow=1;glass=0;sketch=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;fillColor=#67AB9F;gradientColor=#67AB9F;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/700045-icon-86-document-file-php-128.png;rounded=0;shadow=1;glass=0;sketch=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;fillColor=#67AB9F;gradientColor=#67AB9F;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="-587" y="243.2" width="65.2" height="65.2" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-7" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rounded=0;glass=0;fontFamily=Comic Sans MS;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-7" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rounded=0;glass=0;fontFamily=Comic Sans MS;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="-587" y="340" width="55.6" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-8" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;rounded=0;shadow=1;glass=0;sketch=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;fillColor=#67AB9F;gradientColor=#67AB9F;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-8" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;rounded=0;shadow=1;glass=0;sketch=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;fillColor=#67AB9F;gradientColor=#67AB9F;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="-593.5" y="420" width="68.6" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.shoppingCart;strokeColor=#999999;rounded=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;fillColor=#67AB9F;gradientColor=#67AB9F;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.shoppingCart;strokeColor=#999999;rounded=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;fillColor=#67AB9F;gradientColor=#67AB9F;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="-587" y="490" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console;rounded=0;glass=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console;rounded=0;glass=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="-584.2" y="570" width="50" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#5A69A4;gradientColor=none;rounded=0;shadow=1;glass=0;sketch=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#5A69A4;gradientColor=none;rounded=0;shadow=1;glass=0;sketch=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="-593.4" y="630" width="62.8" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-12" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/security.svg;rounded=0;glass=0;sketch=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;fillColor=#67AB9F;gradientColor=#67AB9F;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-12" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/security.svg;rounded=0;glass=0;sketch=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;fillColor=#67AB9F;gradientColor=#67AB9F;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="-587" y="714.6" width="48.6" height="77.15" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-13" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.automated_testing;rounded=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-13" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.automated_testing;rounded=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="-581.6" y="820" width="44.8" height="44.8" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Rediet Online Supermarket Platform:&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;1. Planning and Requirements Gathering:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Identify the types of products you want to offer in the online supermarket.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Determine any specific features you want to incorporate, such as product categories, search functionality, and user reviews.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Consider how you will handle inventory management and stock tracking.&lt;br&gt;&lt;br&gt;2. Design and User Interface:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Design a clean and intuitive user interface that showcases the products effectively.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Create a navigation structure that allows users to easily browse different product categories.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Incorporate a search bar to enable users to find specific products.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Include product images, descriptions, and pricing information on product listing pages.&lt;br&gt;&lt;br&gt;3. Front-end Development:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Convert the design into HTML/CSS templates, ensuring a responsive layout.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement user interface interactions using JavaScript.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Develop product listing pages, individual product pages, and a shopping cart interface.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Integrate with third-party libraries for features like image sliders, product filters, and user reviews.&lt;br&gt;&lt;br&gt;4. Backend Development with PHP:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Create a directory structure for the project, separating models, views, and controllers.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement models that interact with the database and encapsulate data-related operations.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Develop controllers that handle user requests, process data, and communicate with models.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement user authentication and registration functionality.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Develop the logic for handling user sessions and shopping cart management.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Create APIs to handle product listing, searching, and order processing.&lt;br&gt;&lt;br&gt;5. Integration of PHP and HTML/JS/CSS:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Use PHP to dynamically generate HTML content based on data retrieved from the backend.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement PHP templates to reuse common elements across different views.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Utilize PHP functions to handle server-side operations such as form submissions, user authentication, and database queries.&lt;br&gt;&lt;br&gt;6. Database Integration:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Choose a suitable database management system like MySQL or PostgreSQL.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Use PHP&#39;s database extension (e.g., PDO, MySQLi) to connect to the database and execute queries.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement CRUD (Create, Read, Update, Delete) operations in the models for managing product data, user information, and orders.&lt;br&gt;&lt;br&gt;7. Shopping Cart and Checkout:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Develop a shopping cart system to allow users to add, update, and remove items.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement a checkout process that collects shipping and payment information.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Integrate with a payment gateway to process transactions securely.&lt;br&gt;&lt;br&gt;8. Order Management and Admin Panel:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Create an admin panel where you can manage products, inventory, and orders.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement features to track order status and send order notifications to users.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Develop functionalities like order history, customer support, and order cancellation.&lt;br&gt;&lt;br&gt;9. Implementing MVC in PHP:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Ensure proper separation of concerns by keeping models, views, and controllers in separate directories.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Models should handle data retrieval, insertion, and manipulation.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Views should focus on presenting data to the user and handling user interactions.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Controllers should handle user requests, coordinate with models and views, and perform business logic.&lt;br&gt;&lt;br&gt;10. Security and Performance:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement proper input validation and sanitization to prevent security vulnerabilities like SQL injection and cross-site scripting (XSS).&lt;br&gt;&amp;nbsp;&amp;nbsp; - Use PHP&#39;s built-in security features and libraries to protect against common attacks.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Optimize the performance of the PHP code by using caching mechanisms, optimizing database queries, and employing efficient algorithms.&lt;br&gt;&lt;br&gt;11. Testing and Deployment:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Thoroughly test the application to ensure its functionality, usability, and security.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Perform unit tests for individual components (models, views, controllers) as well as integration tests.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Deploy the application to a hosting server or a cloud platform that supports PHP." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#fff2cc;strokeColor=#000000;gradientColor=none;rounded=0;glass=0;shadow=1;fontColor=#000000;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Rediet Online Supermarket Platform:&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;1. Planning and Requirements Gathering:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Identify the types of products you want to offer in the online supermarket.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Determine any specific features you want to incorporate, such as product categories, search functionality, and user reviews.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Consider how you will handle inventory management and stock tracking.&lt;br&gt;&lt;br&gt;2. Design and User Interface:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Design a clean and intuitive user interface that showcases the products effectively.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Create a navigation structure that allows users to easily browse different product categories.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Incorporate a search bar to enable users to find specific products.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Include product images, descriptions, and pricing information on product listing pages.&lt;br&gt;&lt;br&gt;3. Front-end Development:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Convert the design into HTML/CSS templates, ensuring a responsive layout.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement user interface interactions using JavaScript.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Develop product listing pages, individual product pages, and a shopping cart interface.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Integrate with third-party libraries for features like image sliders, product filters, and user reviews.&lt;br&gt;&lt;br&gt;4. Backend Development with PHP:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Create a directory structure for the project, separating models, views, and controllers.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement models that interact with the database and encapsulate data-related operations.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Develop controllers that handle user requests, process data, and communicate with models.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement user authentication and registration functionality.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Develop the logic for handling user sessions and shopping cart management.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Create APIs to handle product listing, searching, and order processing.&lt;br&gt;&lt;br&gt;5. Integration of PHP and HTML/JS/CSS:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Use PHP to dynamically generate HTML content based on data retrieved from the backend.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement PHP templates to reuse common elements across different views.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Utilize PHP functions to handle server-side operations such as form submissions, user authentication, and database queries.&lt;br&gt;&lt;br&gt;6. Database Integration:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Choose a suitable database management system like MySQL or PostgreSQL.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Use PHP&#39;s database extension (e.g., PDO, MySQLi) to connect to the database and execute queries.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement CRUD (Create, Read, Update, Delete) operations in the models for managing product data, user information, and orders.&lt;br&gt;&lt;br&gt;7. Shopping Cart and Checkout:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Develop a shopping cart system to allow users to add, update, and remove items.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement a checkout process that collects shipping and payment information.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Integrate with a payment gateway to process transactions securely.&lt;br&gt;&lt;br&gt;8. Order Management and Admin Panel:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Create an admin panel where you can manage products, inventory, and orders.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement features to track order status and send order notifications to users.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Develop functionalities like order history, customer support, and order cancellation.&lt;br&gt;&lt;br&gt;9. Implementing MVC in PHP:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Ensure proper separation of concerns by keeping models, views, and controllers in separate directories.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Models should handle data retrieval, insertion, and manipulation.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Views should focus on presenting data to the user and handling user interactions.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Controllers should handle user requests, coordinate with models and views, and perform business logic.&lt;br&gt;&lt;br&gt;10. Security and Performance:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Implement proper input validation and sanitization to prevent security vulnerabilities like SQL injection and cross-site scripting (XSS).&lt;br&gt;&amp;nbsp;&amp;nbsp; - Use PHP&#39;s built-in security features and libraries to protect against common attacks.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Optimize the performance of the PHP code by using caching mechanisms, optimizing database queries, and employing efficient algorithms.&lt;br&gt;&lt;br&gt;11. Testing and Deployment:&lt;br&gt;&amp;nbsp;&amp;nbsp; - Thoroughly test the application to ensure its functionality, usability, and security.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Perform unit tests for individual components (models, views, controllers) as well as integration tests.&lt;br&gt;&amp;nbsp;&amp;nbsp; - Deploy the application to a hosting server or a cloud platform that supports PHP." style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#fff2cc;strokeColor=#000000;gradientColor=none;rounded=0;glass=0;shadow=1;fontColor=#000000;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="-517" y="-60" width="1120" height="940" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#67AB9F;shape=mxgraph.azure.azure_marketplace;rounded=0;shadow=1;glass=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#67AB9F;shape=mxgraph.azure.azure_marketplace;rounded=0;shadow=1;glass=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="513" y="-110" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fLX1K6zevSFMjGlXyWZ7-16" value="&lt;font style=&quot;font-size: 32px;&quot; color=&quot;#ffffff&quot;&gt;R&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="fLX1K6zevSFMjGlXyWZ7-15">
+        <mxCell id="fLX1K6zevSFMjGlXyWZ7-16" value="&lt;font style=&quot;font-size: 32px;&quot; color=&quot;#ffffff&quot;&gt;R&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontFamily=Comic Sans MS;" parent="fLX1K6zevSFMjGlXyWZ7-15" vertex="1">
           <mxGeometry x="519" y="-70" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m4ClyE1m7Hm3lfnAOkQG-1" value="" style="endArrow=classic;html=1;sketch=1;curveFitting=1;jiggle=2;curved=1;exitX=0.008;exitY=0.235;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CRDzPwJNytpHfTR5bL00-31" target="CRDzPwJNytpHfTR5bL00-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="390" as="sourcePoint" />
+            <mxPoint x="497" y="360.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
