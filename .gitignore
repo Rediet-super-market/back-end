@@ -1,0 +1,32 @@
+# Dependency directories
+/vendor
+
+# IDE-specific files and directories
+/.idea
+/.vscode
+
+# Build directories and compiled files
+/build
+/*.phar
+/*.phpt
+
+# Log files and temporary files
+/*.log
+/*.tmp
+
+# Configuration files
+/config.php
+/config/*.php
+
+# User-specific files
+/.env
+
+# Cache and session directories
+/cache
+/sessions
+
+# Media and uploaded files
+/public/uploads
+
+# Miscellaneous
+/*.sql
