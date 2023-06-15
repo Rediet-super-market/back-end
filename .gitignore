@@ -30,3 +30,6 @@
 
 # Miscellaneous
 /*.sql
+
+# Confidential information
+credentials.php
