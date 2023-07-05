@@ -14,16 +14,16 @@ class UserController {
             $email = $_POST['email'];
             $password = $_POST['password'];
             $profile_image = $_POST['profile_image'];
-            
+
             $result = $this->model->register($username, $email, $password, $profile_image);
-            
+
             if ($result) {
                 header("Location: /login.php");
             } else {
-                require 'app/views/register.php';
+                require 'register.php';
             }
         } else {
-            require 'app/views/register.php';
+            require 'register.php';
         }
     }
 
@@ -38,36 +38,54 @@ class UserController {
                 $_SESSION['user'] = $user;
                 header("Location: /profile.php");
             } else {
-                require 'app/views/login.php';
+                require 'login.php';
             }
         } else {
-            require 'app/views/login.php';
+            require 'login.php';
         }
     }
 
-    public function profile() {
+    public function update() {
         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $username = $_POST['username'];
             $email = $_POST['email'];
             $profile_image = $_POST['profile_image'];
+            $id = $_SESSION['user']['id'];
 
-            $result = $this->model->updateUser($username, $email, $profile_image, $_SESSION['user']['id']);
-            
+            $result = $this->model->updateUser($username, $email, $profile_image, $id);
+
             if ($result) {
                 $_SESSION['user'] = $this->model->getUser($username);
-                require 'app/views/profile.php';
+                header("Location: /profile.php");
             } else {
-                require 'app/views/error.php';
+                require 'update.php';
             }
         } else {
-            require 'app/views/profile.php';
+            require 'update.php';
+        }
+    }
+
+    public function delete() {
+        if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+            $id = $_SESSION['user']['id'];
+
+            $result = $this->model->deleteUser($id);
+
+            if ($result) {
+                session_unset();
+                session_destroy();
+                header("Location: /register.php");
+            } else {
+                require 'delete.php';
+            }
+        } else {
+            require 'delete.php';
         }
     }
 
     public function logout() {
         session_unset();
         session_destroy();
-
         header("Location: /login.php");
     }
 }

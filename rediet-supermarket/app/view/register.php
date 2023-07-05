@@ -1,3 +1,24 @@
+<?php
+// Include database connection
+$db = require_once 'database.php';
+
+// Include the User Model
+require_once 'UserModel.php';
+
+// Include the User Controller
+require_once 'UserController.php';
+
+// Create a new User Model
+$model = new UserModel($db);
+
+// Create a new User Controller
+$controller = new UserController($model);
+
+// Call the register method
+$controller->register();
+?>
+
+
 <!DOCTYPE html>
 <html>
 <head>
